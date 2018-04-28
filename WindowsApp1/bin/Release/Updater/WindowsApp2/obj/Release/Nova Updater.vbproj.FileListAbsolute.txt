@@ -1,0 +1,23 @@
+C:\Users\Bailey\Downloads\Loader1-master\Loader\WindowsApp1\bin\Release\Updater\WindowsApp2\bin\Release\Nova Updater.exe.config
+C:\Users\Bailey\Downloads\Loader1-master\Loader\WindowsApp1\bin\Release\Updater\WindowsApp2\bin\Release\Nova Updater.exe
+C:\Users\Bailey\Downloads\Loader1-master\Loader\WindowsApp1\bin\Release\Updater\WindowsApp2\bin\Release\Nova Updater.pdb
+C:\Users\Bailey\Downloads\Loader1-master\Loader\WindowsApp1\bin\Release\Updater\WindowsApp2\bin\Release\Nova Updater.xml
+C:\Users\Bailey\Downloads\Loader1-master\Loader\WindowsApp1\bin\Release\Updater\WindowsApp2\obj\Release\NovaUpdater.Form1.resources
+C:\Users\Bailey\Downloads\Loader1-master\Loader\WindowsApp1\bin\Release\Updater\WindowsApp2\obj\Release\NovaUpdater.Resources.resources
+C:\Users\Bailey\Downloads\Loader1-master\Loader\WindowsApp1\bin\Release\Updater\WindowsApp2\obj\Release\Nova Updater.vbproj.GenerateResource.Cache
+C:\Users\Bailey\Downloads\Loader1-master\Loader\WindowsApp1\bin\Release\Updater\WindowsApp2\obj\Release\Nova Updater.vbproj.CoreCompileInputs.cache
+C:\Users\Bailey\Downloads\Loader1-master\Loader\WindowsApp1\bin\Release\Updater\WindowsApp2\obj\Release\Nova Updater.exe
+C:\Users\Bailey\Downloads\Loader1-master\Loader\WindowsApp1\bin\Release\Updater\WindowsApp2\obj\Release\Nova Updater.xml
+C:\Users\Bailey\Downloads\Loader1-master\Loader\WindowsApp1\bin\Release\Updater\WindowsApp2\obj\Release\Nova Updater.pdb
+C:\Users\Bailey\Downloads\Loader1-master\Loader\WindowsApp1\bin\Release\Updater\WindowsApp2\obj\Release\Nova Updater.vbprojResolveAssemblyReference.cache
+C:\Users\Bailey\Desktop\Loader\WindowsApp1\bin\Release\Updater\WindowsApp2\bin\Release\Nova Updater.exe.config
+C:\Users\Bailey\Desktop\Loader\WindowsApp1\bin\Release\Updater\WindowsApp2\bin\Release\Nova Updater.exe
+C:\Users\Bailey\Desktop\Loader\WindowsApp1\bin\Release\Updater\WindowsApp2\bin\Release\Nova Updater.pdb
+C:\Users\Bailey\Desktop\Loader\WindowsApp1\bin\Release\Updater\WindowsApp2\bin\Release\Nova Updater.xml
+C:\Users\Bailey\Desktop\Loader\WindowsApp1\bin\Release\Updater\WindowsApp2\obj\Release\NovaUpdater.Form1.resources
+C:\Users\Bailey\Desktop\Loader\WindowsApp1\bin\Release\Updater\WindowsApp2\obj\Release\NovaUpdater.Resources.resources
+C:\Users\Bailey\Desktop\Loader\WindowsApp1\bin\Release\Updater\WindowsApp2\obj\Release\Nova Updater.vbproj.GenerateResource.Cache
+C:\Users\Bailey\Desktop\Loader\WindowsApp1\bin\Release\Updater\WindowsApp2\obj\Release\Nova Updater.vbproj.CoreCompileInputs.cache
+C:\Users\Bailey\Desktop\Loader\WindowsApp1\bin\Release\Updater\WindowsApp2\obj\Release\Nova Updater.exe
+C:\Users\Bailey\Desktop\Loader\WindowsApp1\bin\Release\Updater\WindowsApp2\obj\Release\Nova Updater.xml
+C:\Users\Bailey\Desktop\Loader\WindowsApp1\bin\Release\Updater\WindowsApp2\obj\Release\Nova Updater.pdb
